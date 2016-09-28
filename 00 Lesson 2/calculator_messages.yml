@@ -1,0 +1,44 @@
+en:
+  welcome: "Welcome to Calculator! Enter your name:"
+  invalid_name: "Make sure to use a valid name."
+  greeting: "Hi "
+  first_number: "What's the first number?"
+  invalid_number: "Hmm...that doesn't look like a valid number"
+  second_number: "What's the second number?"
+  weird_message: "What operation  would you like to perform?\n
+  1) add\n
+  2) subtract\n
+  3) multiply\n
+  4) divide"
+  invalid_operator: "Must choose 1, 2, 3 or 4"
+  thinking: " the two numbers..."
+  here_it_is: "The result is "
+  go_again: "Do you want to perform another calculation? (Y to calculate again)"
+  letter: "y"
+  goodbye: "Thank you for using the calculator. Good bye!"
+  add: "adding"
+  subtract: "subtracting"
+  multiply: "multiplying"
+  divide: "dividing"
+de:
+  welcome: "Willkommen zum Taschenrechner! Gib deinen Namen ein:"
+  invalid_name: "Stellen Sie sicher, einen gultigen Namen zu verwenden."
+  greeting: "Hallo "
+  first_number: "Was ist die erste Zahl?"
+  invalid_number: "Hmm...das sieht nicht wie eine gultige Nummer"
+  second_number: "Was ist die zweite Zahl?"
+  weird_message: "Welche Operation wurden Sie ausfuhren mochten?\n
+  1) hinzufugen\n
+  2) subtrahieren\n
+  3) multiplizieren\n
+  4) dividieren"
+  invalid_operator: "Mussen sich entscheiden 1, 2, 3 or 4"
+  thinking: " die beiden Zahlen..."
+  here_it_is: "Das Ergebnis ist "
+  go_again: "Wollen Sie eine weitere Berechnung durchzufuhren? (J erneut zu berechnen)"
+  letter: "j"
+  goodbye: "Danke fur den Rechner verwenden. Auf wiedersehen!"
+  add: "addieren"
+  subtract: "subtraktion"
+  multiply: "multiplizieren"
+  divide: "zwischen"
